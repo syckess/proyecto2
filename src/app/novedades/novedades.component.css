@@ -1,0 +1,35 @@
+#novedades
+{
+	width: 1000px;
+}
+
+*
+{
+	margin:0;
+	padding: 0;
+	list-style: none;
+}
+.servicios
+{
+	position: relative;
+	margin: auto;
+	width: 1000px;
+	height: 48px;
+	line-height: 48px;
+	left: 0px;
+	top: 20px;
+}
+.contenido
+{
+	top:30px;
+	position: relative;
+	margin: auto;
+	width: 1000px;
+	height: 48px;
+	line-height: 48px;
+}
+.texto
+{
+	border-radius: 10%;
+	margin: auto;
+}
